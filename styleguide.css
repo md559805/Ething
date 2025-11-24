@@ -1,0 +1,22 @@
+:root {
+  --texton-accent-1: rgba(255, 255, 255, 1);
+  --accentaccent-1: rgba(72, 92, 17, 1);
+  --accentaccent-3: rgba(142, 156, 120, 1);
+  --textlink: rgba(0, 0, 0, 1);
+  --accentaccent-2: rgba(223, 236, 198, 1);
+  --textheadline: rgba(0, 0, 0, 1);
+  --dividersdivider-1: rgba(233, 233, 233, 1);
+  --accentaccent-4: rgba(0, 0, 0, 1);
+  --link-font-family: "DM Sans", Helvetica;
+  --link-font-weight: 700;
+  --link-font-size: 14px;
+  --link-letter-spacing: -0.35px;
+  --link-line-height: 139.9999976158142%;
+  --link-font-style: normal;
+  --captions-font-family: "Roboto Mono", Helvetica;
+  --captions-font-weight: 400;
+  --captions-font-size: 12px;
+  --captions-letter-spacing: -0.12px;
+  --captions-line-height: 139.9999976158142%;
+  --captions-font-style: normal;
+}
